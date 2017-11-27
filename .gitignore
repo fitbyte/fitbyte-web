@@ -1,0 +1,13 @@
+
+.DS_Store
+.idea/artifacts/fitbyte_web_war.xml
+.idea/compiler.xml
+.idea/artifacts/fitbyte_web_war_exploded.xml
+.idea/libraries/Maven__junit_junit_3_8_1.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+fitbyte-web.iml
+target/fitbyte-web.war
+target
